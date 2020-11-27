@@ -8,7 +8,7 @@ const App = () => {
     <div class="ball">
       <h1
         class="count"
-        ondoubleClick={() => {
+        onDoubleClick={() => {
           alert("cant edit it");
         }}
       >
